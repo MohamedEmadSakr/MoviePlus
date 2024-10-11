@@ -1,0 +1,16 @@
+body { background-color: #3b3b3b;
+    color: #ffffff; font-family: sans-serif;}
+#submit{padding-top:5%; padding-bottom: 10%; text-align: center;}
+#reset{padding-top:5%; padding-bottom: 10%; text-align: center;}
+#e-mail{padding-bottom: 5%;}
+#Address{padding-bottom: 5%;}
+#Sector{padding-bottom: 3%;}
+#Salary{padding-bottom: 3%;}
+#EID{padding-bottom: 3%;}
+h1{text-align: center; color: red;}
+h2{padding-left: 7%; color: rgb(217, 255, 0); padding-bottom: 5%;}
+.marcoresponsivetable{white-space: nowrap; overflow: auto; align-content: center; margin-left: 2%; margin-right: 2%; margin-top: 1%}
+.btn {margin-right: 2%;}
+span{color:rgb(255, 123, 0)}
+.theader{color: rgb(255, 123, 0)}
+.updatebtn,.deletebtn{background-color: rgb(255, 123, 0); border-color: rgb(255, 123, 0);}
